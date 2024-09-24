@@ -47,6 +47,7 @@ body {
 .apresentacao__links {
     display: flex;
     justify-content: space-between;
+    gap: 10px;
     
 }
 
@@ -54,7 +55,7 @@ body {
     background-color: #22D4FD;
     width: 280px;
     text-align: center;
-    border-radius: 16px;
+    border-radius: 30px;
     font-size: 24px;
     padding: 21.5px 0;
     text-decoration: none;
